@@ -5,7 +5,6 @@ In Test-Driven Development (TDD), tests are a crucial part of the process, guidi
 ## Black-Box Testing (Functional Testing)
 
 Black-box testing focuses on verifying the functionality of a method or class without any knowledge of its internal implementation. In JUnit, this is common when writing tests based on the expected behavior of the method, as defined by the requirements or acceptance criteria.
-
 In black-box testing:
 
 - You test the public interfaces of a class, ensuring that it behaves correctly when given a set of inputs, without concern for how the code is written.
