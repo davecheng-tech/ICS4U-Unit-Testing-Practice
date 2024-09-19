@@ -20,6 +20,6 @@ public class MyMathTest {
     }
     @Test
     public void shouldReturnPowerWithNegativeExponent() {
-        assertEquals(1/10000, MyMath.power(10, -5));
+        assertEquals(1/4, MyMath.power(2, -2));
     }
 }
